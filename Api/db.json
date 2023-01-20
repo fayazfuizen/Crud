@@ -1,0 +1,29 @@
+{
+  "data": [
+    {},
+    {
+      "Activities": 100,
+      "Social": 100,
+      "Hindhi": 100,
+      "Science": 100,
+      "Telugu": 100,
+      "English": 100,
+      "Name": "sashi",
+      "Rollnumber": "803",
+      "Totalmarks": "100",
+      "id": 0.9286613497771976
+    },
+    {
+      "Activities": 47,
+      "Social": 98,
+      "Hindhi": 68,
+      "Science": 65,
+      "Telugu": 65,
+      "English": 85,
+      "Name": "fayaz",
+      "Rollnumber": "503",
+      "Totalmarks": "99",
+      "id": 0.16868168406288286
+    }
+  ]
+}
